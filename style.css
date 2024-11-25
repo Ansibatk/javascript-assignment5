@@ -1,0 +1,25 @@
+body{
+    background-color: lightgray;
+
+}
+.box{
+    height:400px;
+    
+}
+.price{
+    color:aqua;
+}
+.img{
+    object-fit: contain;
+    height:100px;
+    margin:10px;
+
+}
+.description{
+    overflow: hidden;
+    height:100px;
+}
+.title{
+    height:28px;
+    overflow: hidden;
+}
